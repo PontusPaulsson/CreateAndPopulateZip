@@ -1,14 +1,9 @@
-package com.pluralsight.zipfile;
-
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
-
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.charset.Charset;
 import java.nio.file.*;
-import java.nio.*;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
